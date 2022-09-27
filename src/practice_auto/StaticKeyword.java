@@ -19,7 +19,7 @@ public class StaticKeyword {
 		System.out.println("m2");
 	}
 	 
-	 void m3()
+	 void m3() 
 	 {
 		 System.out.println(s);
 		 System.out.println(r);
